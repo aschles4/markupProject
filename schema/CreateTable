@@ -1,0 +1,1 @@
+CREATE TABLE markup( unqID varchar(15), score int, date date);

@@ -1,0 +1,1 @@
+SELECT unqID AS 'key', AVG(score) AS 'avgScore' FROM markup GROUP BY unqID
